@@ -3,13 +3,13 @@
 **Bridging the gap between African farm communities**  
 *Smart Farm Smart Trade*
 
-## 🌱 About
+## About
 A modern PWA marketplace connecting farmers and buyers across African agricultural communities.
 
-## 🚀 Live Demo
+## Live Demo
 [https://your-username.github.io/swap-n-stay-marketplace](https://your-username.github.io/swap-n-stay-marketplace)
 
-## 🛠️ Tech Stack
+## Tech Stack
 - React.js + TypeScript + Tailwind CSS
 - Supabase (PostgreSQL + Auth + Storage)
 - PWA + Mobile App Ready
@@ -17,7 +17,7 @@ A modern PWA marketplace connecting farmers and buyers across African agricultur
 
 MIT License
 
-Copyright (c) [2025] [Kingsley Ofori-Amegbe]
+Copyright (c) 2025 Kingsley Ofori-Amegbe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
